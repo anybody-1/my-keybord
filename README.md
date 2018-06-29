@@ -13,3 +13,6 @@
 4. hash结构
 5. 函数封装
 6. localStorage
+
+## 预览链接
+https://anybody-1.github.io/my-keybord/
